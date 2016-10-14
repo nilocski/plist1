@@ -19,7 +19,7 @@ class ViewController: UIViewController, MKMapViewDelegate
     var countryFlagButton       = UIButton(type: .roundedRect)
     
     // plist file name
-    let plistFileName           = "capitals"
+    let plistFileName           = "countrydata"
     let fileType                = "plist"
     
     // Dictionary names
